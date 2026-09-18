@@ -1,6 +1,6 @@
-# Python Assignment Practice Program 2
+# Python Assignment Practice Program 2 to 5
 
-### Question 
+### Questions
 
 2. Define a class Person and its two child classes: Male and Female. All classes have
 a method "get_gender" which can print "Male" for Male class and "Female" for Female
